@@ -44,8 +44,10 @@ body {
 
 .inner.move {
   transform: translate(50px);
+  background-color: cornflowerblue;
 }
 
 .inner.move.back {
   transform: translate(-50px);
+  background-color: darkslategrey;
 }
